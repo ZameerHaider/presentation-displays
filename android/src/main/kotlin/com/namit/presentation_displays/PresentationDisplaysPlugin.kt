@@ -50,7 +50,7 @@ class PresentationDisplaysPlugin : FlutterPlugin, ActivityAware, MethodChannel.M
     private const val viewTypeEventsId = "presentation_displays_plugin_events"
     private var displayManager: DisplayManager? = null
 
-    /** @hide */
+  
    
   }
 
